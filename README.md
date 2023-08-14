@@ -1,8 +1,16 @@
-# Django ML Deployment
+# Introduction
 
-Learn the basics of Django required for ML Models. There are many concepts involved while learning Django, but specifically in this <a href="https://youtu.be/rNhVBv0i4os">tutorial</a> I teach
-only what you require to get started with ML Model Deployment.
+This repository contains a basic iris recognition machine learning model integrated into a Django web application. The project demonstrates the integration of the iris recognition model into a user-friendly web interface, allowing users to enter different values for identification.
 
-<hr>
+# Tech stack
+Python Libraries
+Django
+Jupyter Notebook
 
-Subscribe to my <a href="https://www.youtube.com/c/RaunakJoshi">YouTube</a> channel for similiar type of content.
+# Contribution
+I welcome contributions from the community! To contribute to this project:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Commit your changes and push them to your fork.
+Submit a pull request to the main repository.
